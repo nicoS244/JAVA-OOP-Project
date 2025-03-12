@@ -1,3 +1,5 @@
 # JAVA-OOP-Project
-Project presented for a OOP course, it contains the implementation of different OOP concepts and other Java functions.
-This code was made given an inital statement and requirements from a teacher, it's intention is to simulate the administration of a vet clinic, it contains the implementation of different OOP concepts like inheritance and others, it also contains the implementation of simple Java file administration (Writing and reading text files). Note that the project is written in Spanish.
+Project for an Object-Oriented Programming (OOP) course.
+This project implements various OOP concepts and Java functionalities. It was developed based on an initial statement and requirements provided by a teacher.
+Its main purpose is to simulate the administration of a veterinary clinic, demonstrating OOP principles such as inheritance and other key concepts. Additionally, it includes a basic implementation of file handling in Java, allowing for reading and writing text files.
+Note: The project is written in Spanish.
